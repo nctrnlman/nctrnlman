@@ -1,5 +1,6 @@
-### Hi there 👋
-# Halo semua! 
+<!-- ### Hi there 👋 -->
+
+# Hi there 👋 
 
 My name **Rhazes Devino**.\
 
