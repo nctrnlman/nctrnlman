@@ -2,7 +2,7 @@
 
 # Hi there 👋 
 
-My name **Rhazes Devino**.\
+My name **Rhazes Devino**.
 
 I am a Double Degree Student with a major in Information Technology. My passion lies in Software and Web Development, and I am highly motivated and dedicated to pursuing excellence in these fields. I am enthusiastic about learning and continuously seek opportunities to broaden my knowledge while keeping up with the latest trends and advancements in the industry.
 
