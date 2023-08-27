@@ -12,6 +12,12 @@ I am excited about the ever-evolving world of technology and its potential to tr
 
 [Linkedin](https://www.linkedin.com/in/rhazes/)
 
+<p align="left">
+<a href="https://github.com/nctrnlman">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nctrnlman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nctrnlman&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <!--
