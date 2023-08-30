@@ -1,18 +1,12 @@
 <!-- ### Hi there 👋 -->
 
 <!-- Header Section -->
-<h1 align="left">Hi there 👋, I'm Rhazes Devino</h1>
+<h1 align="left">I'm Rhazes Devino</h1>
 <h3 align="left">Passionate about Software and Web Development</h3>
 
-<!-- Connect with Me -->
-<h3 align="left">📫 Connect with Me</h3>
+<h3 align="left">🧑‍💻 About Me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/rhazes/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/nctrnlman">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
+  I thrive on challenges and believe in continuous learning. Exploring new technologies and finding innovative solutions is what drives me. When I'm not coding, you'll find me experimenting with new recipes or enjoying outdoor activities.
 </p>
 
 <!-- Skills -->
@@ -51,6 +45,16 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nctrnlman&layout=compact&langs_count=8&theme=algolia">
 </p>
 
+<!-- Connect with Me -->
+<h3 align="left">📫 Connect with Me</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rhazes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/nctrnlman">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+</p>
 
 <!--
 # Hi there 👋 
