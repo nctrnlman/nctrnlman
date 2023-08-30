@@ -6,7 +6,7 @@
 
 <h3 align="left">🧑‍💻 About Me</h3>
 <p align="left">
-  I thrive on challenges and believe in continuous learning. Exploring new technologies and finding innovative solutions is what drives me. When I'm not coding, you'll find me experimenting with new recipes or enjoying outdoor activities.
+  I thrive on challenges and believe in continuous learning. My journey in the world of programming started with my curiosity about how technology works. Since then, I've been on an exciting learning path to become a skilled developer.
 </p>
 
 <!-- Skills -->
@@ -17,19 +17,19 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <br>
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Hapi.js-005571?style=flat-square&logo=hapi&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-  <br>
+
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20Web%20Service-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Object%20Relational%20Mapping-336791?style=flat-square">
-  <br>
+
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Tailwind.css-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
@@ -46,8 +46,8 @@
 </p>
 
 <!-- Connect with Me -->
-<h3>📫 Connect with Me</h3>
-<p>
+<h3 align="left">📫 Connect with Me</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/rhazes/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
@@ -57,7 +57,6 @@
   <a href="https://www.instagram.com/rhazes.d/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
   </a>
-  <img src="phone-icon.png" alt="Phone Icon" width="16" height="16"> +62 812-2143-1716
 </p>
 
 
