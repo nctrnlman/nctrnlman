@@ -46,15 +46,20 @@
 </p>
 
 <!-- Connect with Me -->
-<h3 align="left">📫 Connect with Me</h3>
-<p align="left">
+<h3>📫 Connect with Me</h3>
+<p>
   <a href="https://www.linkedin.com/in/rhazes/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/nctrnlman">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   </a>
+  <a href="https://www.instagram.com/rhazes.d/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+  </a>
+  <img src="phone-icon.png" alt="Phone Icon" width="16" height="16"> +62 812-2143-1716
 </p>
+
 
 <!--
 # Hi there 👋 
