@@ -1,62 +1,54 @@
 <!-- ### Hi there 👋 -->
 
 <!-- Header Section -->
-<h1 align="center">Hi there 👋, I'm Rhazes Devino</h1>
-<h3 align="center">Passionate about Software and Web Development</h3>
+<h1 align="left">Hi there 👋, I'm Rhazes Devino</h1>
+<h3 align="left">Passionate about Software and Web Development</h3>
 
-<!-- Logo -->
-<p align="center">
-  <img src="path-to-your-logo.png" alt="Logo" width="100" height="100">
-</p>
-
-<!-- Introduction -->
-<p align="center">
-  I am a Double Degree Student majoring in Information Technology, with a strong passion for crafting elegant code and creating impactful web applications. I thrive in dynamic environments where I can learn and adapt quickly, and I am dedicated to continuous improvement in my skills.
+<!-- Connect with Me -->
+<h3 align="left">📫 Connect with Me</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rhazes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/nctrnlman">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
 </p>
 
 <!-- Skills -->
-<h3 align="center">🚀 Skills</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<h3 align="left">🚀 Skills</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Hapi.js-005571?style=flat-square&logo=hapi&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20Web%20Service-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Object%20Relational%20Mapping-336791?style=flat-square">
+  <br>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind.css-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Restful%20API-336791?style=flat-square">
 </p>
 
-<!-- Projects -->
-<h3 align="center">🛠️ Projects</h3>
-<p align="center">
-  <a href="project-link">
-    <img src="project-image.jpg" alt="Project Name" width="300" height="150">
-  </a>
-  <a href="project-link">
-    <img src="project-image.jpg" alt="Project Name" width="300" height="150">
-  </a>
-</p>
-
-<!-- Contact -->
-<h3 align="center">📫 Connect with Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rhazes/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/nctrnlman">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-  </a>
-</p>
 
 <!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nctrnlman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nctrnlman&layout=compact&langs_count=8&theme=algolia">
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nctrnlman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nctrnlman&layout=compact&langs_count=8&theme=algolia">
 </p>
 
 
