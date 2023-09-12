@@ -43,6 +43,8 @@
 <p align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nctrnlman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nctrnlman&layout=compact&langs_count=8&theme=algolia">
+  <a href="https://github.com/nctrnlman"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nctrnlman&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/nctrnlman"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nctrnlman&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </p>
 
 <!-- Connect with Me -->
