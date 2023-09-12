@@ -69,6 +69,7 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=nctrnlman&style=for-the-badge)
 [![](https://visitcount.itsvg.in/api?id=nctrnlman&icon=8&color=12)](https://visitcount.itsvg.in)
 <!--
 # Hi there 👋 
