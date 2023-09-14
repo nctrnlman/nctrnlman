@@ -1,8 +1,37 @@
 <!-- ### Hi there 👋 -->
 
 <!-- Header Section -->
-<h1 align="left">I'm Rhazes Devino</h1>
-<h3 align="left">Passionate about Software and Web Development</h3>
+
+[![](https://visitcount.itsvg.in/api?id=nctrnlman&icon=8&color=12)](https://visitcount.itsvg.in)
+
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://alsiam.com">Rhazes Devino</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
+    <br>
+    「 I am a full stack web appplication developer from <b>Indonesia</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rhazes/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/nctrnlman">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/rhazes.d/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+  </a>
+</p>
 
 <h3 align="left">🧑‍💻 About Me</h3>
 <p align="left">
@@ -69,11 +98,10 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=nctrnlman&style=for-the-badge)
-[![](https://visitcount.itsvg.in/api?id=nctrnlman&icon=8&color=12)](https://visitcount.itsvg.in)
+
 <!--
 # Hi there 👋 
-
+![](https://komarev.com/ghpvc/?username=nctrnlman&style=for-the-badge)
 My name **Rhazes Devino**.
 
 I am a Double Degree Student with a major in Information Technology. My passion lies in Software and Web Development, and I am highly motivated and dedicated to pursuing excellence in these fields. I am enthusiastic about learning and continuously seek opportunities to broaden my knowledge while keeping up with the latest trends and advancements in the industry.
