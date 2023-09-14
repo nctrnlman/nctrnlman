@@ -6,14 +6,14 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Rhazes Devino</a></b>
+                <b><a target="_blank" href="https://bit.ly/m/portofolio-rhazes">Rhazes Devino</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Saif+Al+Siam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=rhazes+devino">「 Google Me 」</a>
     <br>
     「 I am a full stack web appplication developer from <b>Indonesia</b> 」
     <br>
@@ -22,10 +22,10 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/al-siam](https://www.linkedin.com/in/rhazes/)" target="_blank">
+  <a href="https://www.linkedin.com/in/rhazes/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
-        <a href="[https://instagram.com/alsiam_dev](https://www.instagram.com/rhazes.d/)" target="_blank">
+        <a href="https://www.instagram.com/rhazes.d/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"  />
  </a> 
 </p>
