@@ -5,12 +5,17 @@
 [![](https://visitcount.itsvg.in/api?id=nctrnlman&icon=8&color=12)](https://visitcount.itsvg.in)
 
 
-<h2 align="">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://bit.ly/m/portofolio-rhazes">Rhazes Devino - Full Stack Engineer from Indonesia</a></b>
-        </samp>
-</h2>
+# 👋 Hey There! 
 
+<samp>
+> My name is <b><a target="_blank" href="https://bit.ly/m/portofolio-rhazes">Rhazes Devino</a></b> 「 I am a Full Stack Engineer from Indonesia 」
+</samp>
+
+I am a passionate Full Stack Engineer with a love for software and web development. I constantly seek to expand my knowledge and stay updated with the latest industry trends. Adaptable and open to feedback, I strive to continually improve and refine my skills.
+
+- 🌍 Based in Indonesia
+- 💼 [Portfolio](https://bit.ly/m/portofolio-rhazes)
+- 📫 Reach me at [email@example.com](mailto:email@example.com)
 <!--
 <p align=""> 
   <samp>
