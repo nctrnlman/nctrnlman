@@ -5,11 +5,11 @@
 [![](https://visitcount.itsvg.in/api?id=nctrnlman&icon=8&color=12)](https://visitcount.itsvg.in)
 
 
-<h3 align="">
+<h1 align="">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://bit.ly/m/portofolio-rhazes">Rhazes Devino</a></b>
         </samp>
-</h3>
+</h1>
 
 
 <p align=""> 
