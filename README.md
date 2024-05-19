@@ -3,6 +3,7 @@
 <!-- Header Section -->
 
 [![](https://visitcount.itsvg.in/api?id=nctrnlman&icon=8&color=12)](https://visitcount.itsvg.in)
+<a href="https://www.google.com/search?q=rhazes+devino">「 Google Me 」</a>
 
 <h3 align="">
         <samp>&gt; Hey There!, I am
@@ -13,14 +14,20 @@
 
 <p align=""> 
   <samp>
-    <a href="https://www.google.com/search?q=rhazes+devino">「 Google Me 」</a>
+    
     <br>
     「 I am a full stack engineer from <b>Indonesia</b> 」
     <br>
-    <br>
+  
   </samp>
 </p>
 
+
+
+<h3 align="left">🧑‍💻 About Me</h3>
+<p align="left">
+  I thrive on challenges and believe in continuous learning. My journey in the world of programming started with my curiosity about how technology works. Since then, I've been on an exciting learning path to become a skilled developer.
+</p>
 <p align="">
   <a href="https://www.linkedin.com/in/rhazes/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
@@ -28,11 +35,6 @@
         <a href="https://www.instagram.com/rhazes.d/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"  />
  </a> 
-</p>
-
-<h3 align="left">🧑‍💻 About Me</h3>
-<p align="left">
-  I thrive on challenges and believe in continuous learning. My journey in the world of programming started with my curiosity about how technology works. Since then, I've been on an exciting learning path to become a skilled developer.
 </p>
 
 <!-- Skills -->
