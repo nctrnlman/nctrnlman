@@ -5,11 +5,11 @@
 [![](https://visitcount.itsvg.in/api?id=nctrnlman&icon=8&color=12)](https://visitcount.itsvg.in)
 
 
-<h1 align="">
-        <samp>&gt; Hey There!, my name is
-                <b><a target="_blank" href="https://bit.ly/m/portofolio-rhazes">Rhazes Devino</a> 「 I am a Full Stack Engineer from Indonesia」</b>
+<h2 align="">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://bit.ly/m/portofolio-rhazes">Rhazes Devino - Full Stack Engineer from Indonesia</a></b>
         </samp>
-</h1>
+</h2>
 
 <!--
 <p align=""> 
