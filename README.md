@@ -4,19 +4,14 @@
 
 [![](https://visitcount.itsvg.in/api?id=nctrnlman&icon=8&color=12)](https://visitcount.itsvg.in)
 
+<!-- > My name is <b><a target="_blank" href="https://bit.ly/m/portofolio-rhazes">Rhazes Devino</a></b> 「 I am a Full Stack Engineer from Indonesia 」 -->
+<!-- </samp> -->
 
-# 👋 Hey There! 
-
-<samp>
-> My name is <b><a target="_blank" href="https://bit.ly/m/portofolio-rhazes">Rhazes Devino</a></b> 「 I am a Full Stack Engineer from Indonesia 」
-</samp>
-
-I am a passionate Full Stack Engineer with a love for software and web development. I constantly seek to expand my knowledge and stay updated with the latest industry trends. Adaptable and open to feedback, I strive to continually improve and refine my skills.
-
+<!--
 - 🌍 Based in Indonesia
 - 💼 [Portfolio](https://bit.ly/m/portofolio-rhazes)
 - 📫 Reach me at [email@example.com](mailto:email@example.com)
-<!--
+
 <p align=""> 
   <samp>
     
@@ -29,7 +24,8 @@ I am a passionate Full Stack Engineer with a love for software and web developme
 
 <h3 align="left">🧑‍💻 About Me <a href="https://www.google.com/search?q=rhazes+devino">「 Google Me 」</a></h3>
 <p align="left">
-  I thrive on challenges and believe in continuous learning. My journey in the world of programming started with my curiosity about how technology works. Since then, I've been on an exciting learning path to become a skilled developer.
+<!--   I thrive on challenges and believe in continuous learning. My journey in the world of programming started with my curiosity about how technology works. Since then, I've been on an exciting learning path to become a skilled developer. -->
+  I am a passionate Full Stack Engineer with a love for software and web development. I constantly seek to expand my knowledge and stay updated with the latest industry trends. Adaptable and open to feedback, I strive to continually improve and refine my skills.
 </p>
 <p align="">
   <a href="https://www.linkedin.com/in/rhazes/" target="_blank">
