@@ -6,17 +6,19 @@
 
 
 <h1 align="">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://bit.ly/m/portofolio-rhazes">Rhazes Devino</a></b>
+        <samp>&gt; Hey There!, my name is
+                <b><a target="_blank" href="https://bit.ly/m/portofolio-rhazes">Rhazes Devino</a> 「 I am a Full Stack Engineer from Indonesia」</b>
         </samp>
 </h1>
 
-
+<!--
 <p align=""> 
   <samp>
-    「 I am a full stack engineer from Indonesia」
+    
   </samp>
 </p>
+-->
+
 
 
 
