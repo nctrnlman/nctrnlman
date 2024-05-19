@@ -4,14 +4,14 @@
 
 [![](https://visitcount.itsvg.in/api?id=nctrnlman&icon=8&color=12)](https://visitcount.itsvg.in)
 
-<h3 align="center">
+<h3 align="">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://bit.ly/m/portofolio-rhazes">Rhazes Devino</a></b>
         </samp>
 </h3>
 
 
-<p align="center"> 
+<p align=""> 
   <samp>
     <a href="https://www.google.com/search?q=rhazes+devino">「 Google Me 」</a>
     <br>
@@ -21,7 +21,7 @@
   </samp>
 </p>
 
-<p align="center">
+<p align="">
   <a href="https://www.linkedin.com/in/rhazes/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
