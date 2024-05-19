@@ -3,7 +3,7 @@
 <!-- Header Section -->
 
 [![](https://visitcount.itsvg.in/api?id=nctrnlman&icon=8&color=12)](https://visitcount.itsvg.in)
-<a href="https://www.google.com/search?q=rhazes+devino">「 Google Me 」</a>
+
 
 <h3 align="">
         <samp>&gt; Hey There!, I am
@@ -14,17 +14,13 @@
 
 <p align=""> 
   <samp>
-    
-    <br>
-    「 I am a full stack engineer from <b>Indonesia</b> 」
-    <br>
-  
+    「 I am a full stack engineer from Indonesia」
   </samp>
 </p>
 
 
 
-<h3 align="left">🧑‍💻 About Me</h3>
+<h3 align="left">🧑‍💻 About Me <a href="https://www.google.com/search?q=rhazes+devino">「 Google Me 」</a></h3>
 <p align="left">
   I thrive on challenges and believe in continuous learning. My journey in the world of programming started with my curiosity about how technology works. Since then, I've been on an exciting learning path to become a skilled developer.
 </p>
