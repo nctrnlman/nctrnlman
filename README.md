@@ -4,6 +4,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=nctrnlman&icon=8&color=12)](https://visitcount.itsvg.in)
 
+<a href="https://wakatime.com/@018ee9fe-13d3-4971-8c34-344bd4682d92"><img src="https://wakatime.com/badge/user/018ee9fe-13d3-4971-8c34-344bd4682d92.svg" alt="Total time coded since Apr 17 2024" /></a>
+
 <!-- > My name is <b><a target="_blank" href="https://bit.ly/m/portofolio-rhazes">Rhazes Devino</a></b> 「 I am a Full Stack Engineer from Indonesia 」 -->
 <!-- </samp> -->
 
