@@ -75,6 +75,8 @@
 
 ### 🎮 Play Games With Me
 
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nctrnlman/nctrnlman/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nctrnlman/nctrnlman/output/pacman-contribution-graph.svg">
@@ -84,3 +86,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/nctrnlman/nctrnlman/output/snake.svg" alt="Snake animation" />
+
+###
