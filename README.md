@@ -66,11 +66,14 @@
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nctrnlman&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nctrnlman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+
+![Rhazes GitHub stats](https://github-readme-stats.vercel.app/api?username=nctrnlman&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_rank=true)
+
+![Rhazes GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nctrnlman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
+
 </div>
 
-### 🎮 Contribution Graph
+### 🎮 Play Games With Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nctrnlman/nctrnlman/output/pacman-contribution-graph-dark.svg">
@@ -78,6 +81,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nctrnlman/nctrnlman/output/pacman-contribution-graph.svg">
 </picture>
 
-### ✍️ Dev Quote
+###
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://raw.githubusercontent.com/nctrnlman/nctrnlman/output/snake.svg" alt="Snake animation" />
