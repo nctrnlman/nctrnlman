@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFkq7_reEx7Yw/profile-displaybackgroundimage-shrink_350_1400/B56Zab_YObGoAc-/0/1746373806274?e=1753920000&v=beta&t=uJMFjhLadzzQlQQd9qGbBDZ2lrsiMl9gUKnpH61UGSw" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGr4NL03OV8wQ/profile-displaybackgroundimage-shrink_350_1400/B56Zn6qOUhJ8AY-/0/1760846997820?e=1763596800&v=beta&t=XXbMy9IbwRIJJreLGOq9at9uQffPMFf91hXqhu2FL2g" />
 
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nctrnlman.nctrnlman&" alt="Visitor Badge" />
